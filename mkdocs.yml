@@ -1,4 +1,6 @@
 site_name: Golang By Prithvi
 site_url: https://example.com/
-
+nav:
+    - Home: index.md
+    - Index: book_index.md
 theme: material
